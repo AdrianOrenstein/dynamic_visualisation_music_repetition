@@ -1,10 +1,9 @@
 # Dynamic Visualization of Music Repetition
 
-This is my dynamic data visualization research assignment for "Grand Challenges in Computer science", this project builds upon my previous (Grand Challenge)[https://github.com/AdrianOrenstein/is_pop_music_getting_more_repetitive], and allows users to graph repetition for specific artist's careers.
+This is my dynamic data visualization research assignment for "Grand Challenges in Computer science", this project builds upon my previous [Grand Challenge](https://github.com/AdrianOrenstein/is_pop_music_getting_more_repetitive), and allows users to graph repetition for specific artist's careers.
 
 ## Getting Started
 
-apt-get install mariadb-server
 apt-get install node
 
 Run command in dynamic/server/
@@ -14,7 +13,7 @@ npm install
 npm start
 ```
 
-Run command in /dynamic/
+Run command in dynamic/
 This initializes the client
 ```
 npm install
