@@ -2,6 +2,8 @@
 
 This is my dynamic data visualization research assignment for "Grand Challenges in Computer science", this project builds upon my previous [Grand Challenge](https://github.com/AdrianOrenstein/is_pop_music_getting_more_repetitive), and allows users to graph repetition for specific artist's careers.
 
+![The website](website.jpg)
+
 ## Getting Started
 
 apt-get install node
